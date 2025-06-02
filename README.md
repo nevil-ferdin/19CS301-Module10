@@ -84,7 +84,8 @@ else:
 Thus, the given program is implemented and executed successfully .
 
 ## ExNo: 10.3 Queue
-### Aim: To develop a python program to add only the even unique numbers using appendleft() from n given numbers
+### Aim: 
+To develop a python program to add only the even unique numbers using appendleft() from n given numbers
 ### Algorithm:
 
 **STEP 1:** Start.
